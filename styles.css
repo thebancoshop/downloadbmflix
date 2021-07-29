@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+
+#titleBM{
+    color: #ffbf00;
+    font-family: 'Bebas Neue',  cursive;
+    font-size: 100px;
+    text-align: center;
+    
+}
+
+#subtitle{
+    color: #ffbf00;
+    font-family: 'Bebas Neue',  cursive;
+    text-align: center;
+    font-size: 70px;
+}
+
+
+
+.hijo{
+    margin: 0 auto;
+    
+    
+}
+
+.hijo2{
+    
+    display: flex;
+    justify-content: center;
+    
+}
+
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: #ffbf00;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #998;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .button:hover {background-color: #ffbf00}
+  
+  .button:active {
+    background-color: #ffbf00;
+    box-shadow: 0 5px black;
+    transform: translateY(4px);
+  }
