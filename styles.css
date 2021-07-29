@@ -26,10 +26,17 @@ body{
 }
 
 .hijo2{
+   
     
     display: flex;
     justify-content: center;
     
+}
+
+.sobrenosotros{
+    color: #ffbf00;
+    font-family: 'Bebas Neue',  cursive;
+    text-align: center;
 }
 
 .button {
