@@ -10,11 +10,14 @@ body{
     
 }
 
-#subtitle{
+
+
+#info{
     color: #ffbf00;
     font-family: 'Bebas Neue',  cursive;
+    font-size: 50px;
     text-align: center;
-    font-size: 70px;
+    
 }
 
 
